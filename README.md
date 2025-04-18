@@ -8,7 +8,7 @@ Welcome to the May 2025 edition of the Global Agent Hackathon!
 
 Join us for a month-long, open-source AI Agent Hackathon — open to all builders and dreamers working on agents, RAG, tool use, and multi-agent systems.
 
-Powered by [Agno](https://agno.link/gh), [Firecrawl](https://www.firecrawl.dev/), [Mem0](http://mem0.ai), [Unwind AI](https://www.theunwindai.com), [Browser Use](https://browser-use.com), [mcp.run](https://www.mcp.run), [Graphlit](https://www.graphlit.com/), [Lutra AI](https://www.lutra.ai), [Potpie](https://potpie.ai) and more.
+Powered by [Agno](https://agno.link/gh), [Exa](https://exa.ai), [Firecrawl](https://www.firecrawl.dev/), [Mem0](http://mem0.ai), [Unwind AI](https://www.theunwindai.com), [Browser Use](https://browser-use.com), [mcp.run](https://www.mcp.run), [Graphlit](https://www.graphlit.com/), [Lutra AI](https://www.lutra.ai), [Potpie](https://potpie.ai) and more.
 
 ## 💰 Build something cool, win over $25,000 in cash and credits
 
@@ -46,6 +46,12 @@ Projects showcasing the best use case of Potpie will get following cash prizes:
 All the prizes will be awarded at the end of the hackathon.
 
 ## Credits
+
+### Exa - Free $50 credits for everyone:
+
+Every participant gets free $50 Exa API credits! 
+
+- To get the credits use the coupon code `EXA50API` by heading to the [Exa API Dashboard](https://dashboard.exa.ai/billing).
 
 ### Best use of Firecrawl:
 
