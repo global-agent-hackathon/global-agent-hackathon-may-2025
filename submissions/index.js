@@ -7,28 +7,29 @@ dotenv.config();
 const { FETCH_NEWS_API_URL, POST_NEWS_API_URL, FETCH_PUZZLE_API_URL, POST_PUZZLE_API_URL } = process.env;
 
 // Define the scheduled job
-cron.schedule('*/2 * * * *', async () => {
+cron.schedule('* * * * *', async () => {
   console.log(`[${new Date().toISOString()}] News Cron job started`);
 
   try {
-    // Step 1: Fetch data from API A
+    // Step 1: Fetch data from news API 
     const fetchResponse = await fetch(FETCH_NEWS_API_URL);
     
     if (!fetchResponse.ok) {
-      throw new Error(`Fetch API failed with status ${fetchResponse.status}`);
+      throw new Error(`Fetch News API failed with status ${fetchResponse.status}`);
     }
     
     const data = await fetchResponse.json();
-    console.log('Fetched data:', data);
+    console.log('Fetched news data:', data);
+
     const postData = {}
     postData.title = data.title
     postData.description = data.description
     postData.sourceLinks = data.source_links
     postData.translations = data.translations
 
-    console.log('Post data:', postData);
+    console.log('Post news data:', postData);
 
-    // Step 2: Send data to API B
+    // Step 2: Send data to news API
     const postResponse = await fetch(POST_NEWS_API_URL, {
       method: 'POST',
       headers: {
@@ -38,21 +39,21 @@ cron.schedule('*/2 * * * *', async () => {
     });
 
     if (!postResponse.ok) {
-      throw new Error(`Post API failed with status ${postResponse.status}`);
+      throw new Error(`Post News API failed with status ${postResponse.status}`);
     }
 
-    console.log('Successfully posted data to API B');
+    console.log('Successfully posted data to news API');
 
   } catch (error) {
     console.error(`[${new Date().toISOString()}] Error occurred:`, error.message);
   }
 });
 
-cron.schedule('* * * * *', async () => {
+cron.schedule('*/2 * * * *', async () => {
   console.log(`[${new Date().toISOString()}] Puzzle Cron job started`);
 
   try {
-    // Step 1: Fetch data from API C
+    // Step 1: Fetch data from puzzle API 
     const fetchResponse = await fetch(FETCH_PUZZLE_API_URL);
     
     if (!fetchResponse.ok) {
@@ -62,9 +63,9 @@ cron.schedule('* * * * *', async () => {
     const data = await fetchResponse.json();
     console.log('Fetched puzzle data:', data);
 
-    console.log('Post data:', data);
+    console.log('Post puzzle data:', data);
 
-    // Step 2: Send data to API D
+    // Step 2: Send data to puzzle API
     const postResponse = await fetch(POST_PUZZLE_API_URL, {
       method: 'POST',
       headers: {
@@ -77,7 +78,7 @@ cron.schedule('* * * * *', async () => {
       throw new Error(`Post puzzle API failed with status ${postResponse.status}`);
     }
 
-    console.log('Successfully posted data to API D');
+    console.log('Successfully posted data to puzzle API');
 
   } catch (error) {
     console.error(`[${new Date().toISOString()}] Error occurred:`, error.message);
