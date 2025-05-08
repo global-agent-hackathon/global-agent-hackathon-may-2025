@@ -1,0 +1,16 @@
+{
+    "Email": "r7raviteja@gmail.com",
+    "password": null,
+    "First name": "Raviteja",
+    "middle name": null,
+    "Last name": "R",
+    "Phone number": "+49 15216 442399",
+    "Language": "English",
+    "Secondary Phone": null,
+    "Street Address": null,
+    "City": null,
+    "State": null,
+    "Zip / Postal Code": null,
+    "Country": null,
+    "LinkedIn profile": "https://www.linkedin.com/in/rraviteja/"
+}

@@ -1,0 +1,45 @@
+{
+    "Final Result": "The application was successfully submitted. The page displays the message 'Thanks for applying! We'll email you with the next steps.'",
+    "Is Done": true,
+    "Has Errors": false,
+    "Model Thoughts": [
+        {
+            "evaluation_previous_goal": "Success - The application page is loaded.",
+            "memory": "Starting the application process. Need to fill in the text areas and then submit the application. Waiting for user input.",
+            "next_goal": "Ask the user for the content of each text area and confirmation."
+        },
+        {
+            "evaluation_previous_goal": "Success - User confirmed the inputs.",
+            "memory": "User confirmed, submitting application and waiting for success message.",
+            "next_goal": "Submit the application and verify if the submission was successful."
+        },
+        {
+            "evaluation_previous_goal": "Success - The application was submitted successfully.",
+            "memory": "The application was successfully submitted and a success message is displayed.",
+            "next_goal": "Complete the task."
+        }
+    ],
+    "Action Results": [
+        {
+            "is_done": false,
+            "success": null,
+            "extracted_content": "I confirm",
+            "error": null,
+            "include_in_memory": false
+        },
+        {
+            "is_done": false,
+            "success": null,
+            "extracted_content": "🖱️  Clicked button with index 8: Submit Application",
+            "error": null,
+            "include_in_memory": true
+        },
+        {
+            "is_done": true,
+            "success": true,
+            "extracted_content": "The application was successfully submitted. The page displays the message 'Thanks for applying! We'll email you with the next steps.'",
+            "error": null,
+            "include_in_memory": false
+        }
+    ]
+}
