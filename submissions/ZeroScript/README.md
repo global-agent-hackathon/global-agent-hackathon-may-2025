@@ -4,7 +4,7 @@ ZeroScript is an automated browser testing framework that uses AI-powered agents
 
 ## Features
 
-- 🤖 AI-powered test execution using Google's Gemini model
+- 🤖 AI-powered test execution using Browser-Use and Google's Gemini model
 - 🌐 Browser automation with recording and screenshot capabilities
 - 📝 YAML-based test case definitions
 - 📊 JSON test execution reports
@@ -34,7 +34,6 @@ ZeroScript/
 
 - Python 3.7 or higher
 - Google Gemini API key
-- Modern web browser (Chrome recommended)
 
 ## Installation
 
