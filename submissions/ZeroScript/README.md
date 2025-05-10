@@ -37,13 +37,7 @@ ZeroScript/
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ZeroScript.git
-cd ZeroScript
-```
-
-2. Create and activate a virtual environment:
+1. Create and activate a virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Unix/macOS
@@ -51,12 +45,12 @@ source venv/bin/activate  # On Unix/macOS
 .\venv\Scripts\activate  # On Windows
 ```
 
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Create a `.env` file in the project root:
+3. Create a `.env` file in the project root:
 ```env
 GEMINI_API_KEY=your_api_key_here
 ```
