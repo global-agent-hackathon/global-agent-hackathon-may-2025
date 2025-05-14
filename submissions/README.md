@@ -29,14 +29,10 @@ https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
 ## Tools Used
 List what you're planning to use, including any new tools you need to create.
 
-## UI Approach
-Describe the user interface for your project.
-
-## Visuals
-Add mockups, diagrams, or sketches that demonstrate your idea or flow.
+## UI Approach & Visuals
+https://likeminds-react-vercel.vercel.app/
 
 ## Team Information
-- **Team Lead**: GitHub handle and role
 - **Team Members**: GitHub handles and roles
 - **Background/Experience**: Brief team background
 
