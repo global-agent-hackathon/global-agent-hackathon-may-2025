@@ -49,6 +49,7 @@ https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
 3. **Robust and Scemantic Exploration acorss Multiple Social Media:**
 
    - The user can now send any request, even very niche requests with multiple conditions such as "People who worked in UCL and submitted research papers at ICRA conference", etc. Your personalized agent will then start scanning across multiple social-medias and wesbites:
+https://github.com/user-attachments/assets/02d83879-0acf-4bc4-b36c-6d71648e154c
 
 4. **Profiles are Retrieved and Displayed as a graph:**
 
@@ -57,6 +58,9 @@ https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
 5. **Viewable Avatars:**
 
    - Each
+
+
+
 
 ## Tools Used 🛠️
 
