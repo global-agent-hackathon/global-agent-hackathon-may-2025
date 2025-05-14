@@ -5,7 +5,7 @@ Likeminds - World 1st Agentic Social Network
 We redefine social interaction with highly personalized agents. Our muti-agent network helps users find the circles/users they want. Social interaction is no longer a matter of luck, but a “Hi” after thousands of simulated exchanges.
 
 ## Project Goal
-This Project is currently under-review by YC S25. 
+This Project is in alpha-testing right now with a small internal user group, we want to refine all the features and submit it to startup accelerator like YC S25. 
 
 ## How It Works
 1. Create a cloned agent of you:
@@ -16,9 +16,6 @@ This Project is currently under-review by YC S25.
 
 https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
 
-
-
-
 3. With Your request, your agent spread your info to other agents, agents respond with their users' profiles.
 4.  
 
@@ -27,7 +24,8 @@ https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
 - **Multimodal Elements** (if applicable): Specify if you're using text, images, audio, video, or combinations
 
 ## Tools Used
-List what you're planning to use, including any new tools you need to create.
+![27](https://github.com/user-attachments/assets/f87a6b35-c174-455d-ae56-bb8500b1070f)
+![28](https://github.com/user-attachments/assets/8e78e6cc-a587-4fb7-86a0-2fe66d366c70)
 
 ## UI Approach & Visuals
 https://likeminds-react-vercel.vercel.app/
