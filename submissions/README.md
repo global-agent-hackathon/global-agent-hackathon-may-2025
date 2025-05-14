@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
 
 | **Purpose**               | **Tool / Library**                                                                 |
 |---------------------------|------------------------------------------------------------------------------------|
-| **Agent Orchestration**    | <img src="https://github.com/user-attachments/assets/a40d111a-2dac-4568-a46b-50bf91c53343" width="20" height="20" /> Agno  |
+| **Agent Orchestration**    | <img src="https://github.com/user-attachments/assets/a40d111a-2dac-4568-a46b-50bf91c53343" width="10" height="10" /> Agno  |
 | **Backend & API**          | Flask                                                                              |
 | **Chat LLM**               | Gemini, GPT-4o                                                                     | 
 | **Data Ingestion**         | Perplexity, Google                                                                |
