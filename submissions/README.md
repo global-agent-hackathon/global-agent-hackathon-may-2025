@@ -62,14 +62,16 @@ https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
 
 ## Tools & Tech Stacks
 
+## Tools & Tech Stacks
+
 | **Purpose**               | **Tool / Library**                                                                 |
 |---------------------------|------------------------------------------------------------------------------------|
 | **Agent Orchestration**    | <img src="https://github.com/user-attachments/assets/a40d111a-2dac-4568-a46b-50bf91c53343" width="15" height="15" /> Agno  |
-| **Backend & API**          | Flask                                                                              |
-| **Chat LLM**               | Gemini, GPT-4o                                                                     | 
-| **Data Ingestion**         | Perplexity, Google                                                                |
-| **Cross-Platform Integration** | LinkedIn API, Twitter/X API, Instagram API, Google Search API                    |
-| **Frontend**               | React, Vercel                                                                     |
+| **Backend & API**          | <img src="https://github.com/user-attachments/assets/51e50333-2e54-4b37-9838-0ec641327a5f" width="15" height="15" /> Flask |
+| **Chat LLM**               | <img src="https://github.com/user-attachments/assets/fb657fcc-7a4e-4690-8b1f-24e2587f7cf6" width="15" height="15" /> Gemini, <img src="https://github.com/user-attachments/assets/f2063c07-8353-41e2-8729-80181c70b701" width="15" height="15" /> GPT-4o |
+| **Data Ingestion**         | <img src="https://github.com/user-attachments/assets/d7f1227c-d2ed-4586-8008-6e7641b6522b" width="15" height="15" /> Perplexity, <img src="https://github.com/user-attachments/assets/8e705aad-b26c-4aa2-9053-8b0f9ce271be" width="15" height="15" /> Google |
+| **Cross-Platform Integration** | <img src="https://github.com/user-attachments/assets/1ca67258-72f5-43f6-96d4-774585517bfd" width="15" height="15" /> LinkedIn API, <img src="https://github.com/user-attachments/assets/bc9f865e-ba4d-46cd-94c0-9e9864b9c2ac" width="15" height="15" /> X API, Instagram API, <img src="https://github.com/user-attachments/assets/92d50cbc-45cf-446e-8c60-88ccef460862" width="15" height="15" /> Google Search API |
+| **Frontend**               | <img src="https://github.com/user-attachments/assets/b735d608-66ca-4929-9348-b1e4e391f81d" width="15" height="15" /> React, <img src="https://github.com/user-attachments/assets/ebe940c3-5b64-4bbd-a53b-c68c65d3f43d" width="15" height="15" /> Vercel |
 
 
 
