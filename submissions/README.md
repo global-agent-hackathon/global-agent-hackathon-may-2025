@@ -44,9 +44,5 @@ https://likeminds-react-vercel.vercel.app/
 - [ ] Best Overall Project
 
 ## Demo Video Link
-Once completed, add a link to your 2-3 minute demo video.
-
-## Additional Notes
-Any other information you'd like to share about your project.
-
 https://drive.google.com/file/d/1qSfqqZ15LHdFTNJJg8fjFqpK55iOSjNx/view?usp=sharing
+
