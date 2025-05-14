@@ -5,7 +5,7 @@ Likeminds - World 1st Agentic Social Network
 We redefine social interaction with highly personalized agents. Our muti-agent network helps users find the circles/users they want. Social interaction is no longer a matter of luck, but a “Hi” after thousands of simulated exchanges.
 
 ## Project Goal
-This Project is in alpha-testing right now with a small internal user group, we want to refine all the features and submit it to startup accelerator like YC S25. 
+This Project is in alpha-testing right now with a small internal user group, we want to refine all the features and submit it to startup accelerator like YC. 
 
 ## How It Works
 1. Create a cloned agent of you:
