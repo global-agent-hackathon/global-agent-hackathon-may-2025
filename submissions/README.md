@@ -10,7 +10,7 @@ This Project is currently under-review by YC S25.
 ## How It Works
 1. Create a cloned agent of you:
    - Provide Your Social Media llinks, your specilazed agent will retrive all your info, remember all your experiences, analyze your personalitys and guess your potential networking peference according to your interests
-   - ![image](https://github.com/user-attachments/assets/0215b371-3e04-46da-846d-c2377858503c)
+![image](https://github.com/user-attachments/assets/0215b371-3e04-46da-846d-c2377858503c)
 
 2. Your agent analyze everything about you, under your permisson.
 
