@@ -59,8 +59,17 @@ https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
    - Each
 
 ## Tools Used 🛠️
+## Tools & Tech Stacks
 
-![27](https://github.com/user-attachments/assets/f87a6b35-c174-455d-ae56-bb8500b1070f)
+| **Purpose**               | **Tool / Library**                                                                 |
+|---------------------------|------------------------------------------------------------------------------------|
+| Agent Orchestration       | Agno                                                                                |
+| Backend & API             | Flask                                                                                |
+| Chat LLM                  | Gemini, GPT-4o                                                                       | 
+| Data Ingestion            | Perplexity, Google                                                                  |
+| Cross-Platform Integration | LinkedIn API, Twitter/X API, Instagram API, Google Search API                      |
+| Frontend                  | React, Vercel                                                                       |
+
 ![28](https://github.com/user-attachments/assets/8e78e6cc-a587-4fb7-86a0-2fe66d366c70)
 
 ## UI Approach & Visuals
