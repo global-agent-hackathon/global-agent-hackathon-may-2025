@@ -73,10 +73,6 @@ https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
 | **Cross-Platform Integration** | <img src="https://github.com/user-attachments/assets/1ca67258-72f5-43f6-96d4-774585517bfd" width="15" height="15" /> LinkedIn API, <img src="https://github.com/user-attachments/assets/bc9f865e-ba4d-46cd-94c0-9e9864b9c2ac" width="15" height="15" /> X API, Instagram API, <img src="https://github.com/user-attachments/assets/92d50cbc-45cf-446e-8c60-88ccef460862" width="15" height="15" /> Google Search API |
 | **Frontend**               | <img src="https://github.com/user-attachments/assets/b735d608-66ca-4929-9348-b1e4e391f81d" width="15" height="15" /> React, <img src="https://github.com/user-attachments/assets/ebe940c3-5b64-4bbd-a53b-c68c65d3f43d" width="15" height="15" /> Vercel |
 
-
-
-![28](https://github.com/user-attachments/assets/8e78e6cc-a587-4fb7-86a0-2fe66d366c70)
-
 ## UI Approach & Visuals
 
 https://likeminds-react-vercel.vercel.app/
