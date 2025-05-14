@@ -59,17 +59,16 @@ https://github.com/user-attachments/assets/fe14f2f9-73f4-48ea-b7f3-5512757a4b0d
    - Each
 
 ## Tools Used 🛠️
-## Tools & Tech Stacks
 
-| **Purpose**               | **Tool / Library**                                                                 |
-|---------------------------|------------------------------------------------------------------------------------|
-| Agent Orchestration       | ![Agno Logo](https://github.com/user-attachments/assets/a40d111a-2dac-4568-a46b-50bf91c53343 =20x20)|
-                                                                                |
-| Backend & API             | Flask                                                                                |
-| Chat LLM                  | Gemini, GPT-4o                                                                       | 
-| Data Ingestion            | Perplexity, Google                                                                  |
-| Cross-Platform Integration | LinkedIn API, Twitter/X API, Instagram API, Google Search API                      |
-| Frontend                  | React, Vercel                                                                       |
+| **Purpose**               | **Tool / Library**                                                                 | **Logo**                                                                      |
+|---------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| **Agent Orchestration**    | **Agno**                                                                            | ![Agno Logo](https://github.com/user-attachments/assets/a40d111a-2dac-4568-a46b-50bf91c53343 =20x20) |
+| **Backend & API**          | **Flask**                                                                           | ![Flask Logo](https://example.com/flask-logo.png =20x20)                       |
+| **Chat LLM**               | **Gemini, GPT-4o**                                                                  | ![Gemini Logo](https://example.com/gemini-logo.png =20x20) ![GPT-4o Logo](https://example.com/gpt4o-logo.png =20x20) |
+| **Data Ingestion**         | **Perplexity, Google**                                                              | ![Perplexity Logo](https://example.com/perplexity-logo.png =20x20) ![Google Logo](https://example.com/google-logo.png =20x20) |
+| **Cross-Platform Integration** | **LinkedIn API, Twitter/X API, Instagram API, Google Search API**                    | ![LinkedIn Logo](https://example.com/linkedin-logo.png =20x20) ![Twitter/X Logo](https://example.com/twitter-logo.png =20x20) ![Instagram Logo](https://example.com/instagram-logo.png =20x20) ![Google Search Logo](https://example.com/google-search-logo.png =20x20) |
+| **Frontend**               | **React, Vercel**                                                                   | ![React Logo](https://example.com/react-logo.png =20x20) ![Vercel Logo](https://example.com/vercel-logo.png =20x20) |
+
 
 ![28](https://github.com/user-attachments/assets/8e78e6cc-a587-4fb7-86a0-2fe66d366c70)
 
