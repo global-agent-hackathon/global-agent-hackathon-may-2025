@@ -80,8 +80,13 @@ https://likeminds-react-vercel.vercel.app/
 
 ## Team Information
 
-- **Team Members**: GitHub handles and roles
-- **Background/Experience**: Brief team background
+- **Team Members**:  
+  - @Guanming: [GitHub](https://github.com/william-Dic) | [LinkedIn](https://www.linkedin.com/in/guanming-wang/)  
+  - @Vaibhav: [GitHub](https://github.com/Vaibhav807) | [LinkedIn](https://www.linkedin.com/in/vaibhav-mehra-main/)  
+
+- **Background/Experience**:  
+  We are both second-year Robotics and AI students at UCL. Prior to this hackathon, we have participated in over 5 global hackathons, including events hosted by a16z, IBM, and others.  
+  Guanming is currently an incoming research intern at DeepMind, and Vaibhav is an incoming research intern at a corporation in Hong Kong.
 
 ## Prize Category (leave blank, to be assigned by judges)
 
