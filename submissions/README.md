@@ -13,7 +13,7 @@ This Project is currently under-review by YC S25.
    - ![image](https://github.com/user-attachments/assets/0215b371-3e04-46da-846d-c2377858503c)
 
 2. Your agent analyze everything about you, under your permisson.
-  - https://github.com/user-attachments/assets/f1a3672d-d831-4fc4-9869-bc28f32f2f01
+https://github.com/user-attachments/assets/f1a3672d-d831-4fc4-9869-bc28f32f2f01
 
 3. With Your request, your agent spread your info to other agents, agents respond with their users' profiles.
 4.  
