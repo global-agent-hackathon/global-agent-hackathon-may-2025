@@ -1,0 +1,21 @@
+Raviteja R  
+r2raviteja@gmail.com  
++49 15216 442399  
+Munich, Germany  
+
+Date: April 29, 2025
+
+Dear Hiring Manager,
+
+I am excited to apply for the Senior Data Analyst position at Flipkart, as I am eager to contribute my extensive experience in data analysis, visualization, and large-scale data management to support your company's data-driven decision-making. With a background in turning complex datasets into actionable insights, and a passion for innovative solutions, I believe I can add substantial value to your team as you continue to optimise customer experiences and operational efficiencies.
+
+In my current role as a Data Scientist at Allianz in Munich, I significantly enhanced cross-functional reporting and automation; for instance, I built Power BI dashboards used by 119 countries, reducing manual reporting efforts by 30% and increasing marketing effectiveness by 15%. Additionally, I developed a Generative AI chatbot leveraging OpenAI, LangChain, and RAG, which improved customer query resolution times by threefold and increased query closure rates by 40%. My ability to analyze large datasets using SQL, Python, and PySpark, combined with creating automated dashboards, aligns well with Flipkart’s requirements for handling sizable datasets and deriving business insights.
+
+My experience with data analytics and visualization tools, specifically PowerBI, has consistently supported strategic initiatives and operational improvements. For example, at Rapid, I resulted in a 22% increase in customer satisfaction scores by leveraging NLP techniques for sentiment analysis and feedback parsing, and I accelerated dashboard load times from 15 minutes to under 30 seconds through data consolidation. My hands-on expertise in SQL, Python, and data modelling ensures I can efficiently extract, analyse, and present data to inform critical business decisions at Flipkart.
+
+Joining Flipkart excites me because of your commitment to innovation and the use of data to enhance customer experience. My skills in large-scale data analysis, visualization, and automation are perfectly suited to your needs. I am motivated to work in a dynamic environment where I can contribute to impactful projects, collaborate with cross-functional teams, and help shape data strategies that drive growth for your platform.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills and experiences can support Flipkart’s continued success and innovation. Please feel free to contact me for an interview at your convenience.
+
+Sincerely,  
+Raviteja R

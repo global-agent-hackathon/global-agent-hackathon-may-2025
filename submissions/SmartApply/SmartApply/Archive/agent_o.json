@@ -1,0 +1,52 @@
+{
+    "Final Result": "The application for Senior Data Analyst @ Atlan was successfully submitted. Success message: Your application was successfully submitted.",
+    "Is Done": true,
+    "Has Errors": false,
+    "Model Thoughts": [
+        {
+            "evaluation_previous_goal": "Success - Loaded the application form.",
+            "memory": "Started filling the Atlan application form. Waiting for user input to confirm completion.",
+            "next_goal": "Ask user to fill the form and confirm."
+        },
+        {
+            "evaluation_previous_goal": "Success - User confirmed the form is complete.",
+            "memory": "Filled the Atlan application form. User confirmed. Now submitting and waiting for 3 seconds.",
+            "next_goal": "Submit the application and wait for the success screen."
+        },
+        {
+            "evaluation_previous_goal": "Success - Submitted application and waited 3 seconds.",
+            "memory": "Filled and submitted the Atlan application form. Success screen is visible.",
+            "next_goal": "Complete the task since success screen is visible."
+        }
+    ],
+    "Action Results": [
+        {
+            "is_done": false,
+            "success": null,
+            "extracted_content": "I confirm",
+            "error": null,
+            "include_in_memory": false
+        },
+        {
+            "is_done": false,
+            "success": null,
+            "extracted_content": "🖱️  Clicked button with index 8: Submit Application",
+            "error": null,
+            "include_in_memory": true
+        },
+        {
+            "is_done": false,
+            "success": null,
+            "extracted_content": "🕒  Waiting for 3 seconds",
+            "error": null,
+            "include_in_memory": true
+        },
+        {
+            "is_done": true,
+            "success": true,
+            "extracted_content": "The application for Senior Data Analyst @ Atlan was successfully submitted. Success message: Your application was successfully submitted.",
+            "error": null,
+            "include_in_memory": false
+        }
+    ]
+}

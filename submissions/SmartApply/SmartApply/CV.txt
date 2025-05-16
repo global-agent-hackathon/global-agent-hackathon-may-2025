@@ -1,0 +1,95 @@
+Raviteja R
+Senior Product Data Analyst, 
+Certified Data Scientist
+r2raviteja@gmail.com
+ 
++49 15216 442399
+ 
+Munich, Germany
+ 
+https://www.linkedin.com/in/rraviteja/
+ 
+Profile  with 5 years of experience in 
+analytics, A/B testing and KPI optimization. 
+Proficient in building scalable dashboards 
+and machine learning models to drive 
+business impact. Available for immediate 
+joining.
+Education
+Masters in Business Analytics & Data 
+Science, EU Business School
+March 2023 – April 2025 | Munich, Germany
+GPA : 1,6/4 (German Scale,  1 = Highest)
+Post Graduate Diploma in Data Science, 
+IIIT Bangalore
+April 2019 – September 2020
+GPA - 3.2/4 (U.S Scale, with 4 = Highest)
+Bachelor of Technology (ECE) | 
+Specialization in Data Science, 
+Lovely Professional University
+June 2015 – April 2019
+GPA : 7.76/10 (with 10 = Highest)
+Projects
+Thesis: AI-Driven Interview Bot
+Developed an AI-powered interview bot 
+leveraging Generative AI, Langchain, RAG 
+and NLP, reducing early-stage interviewer 
+workload by 60% and increasing candidate 
+satisfaction by 16%.
+Data Scientist - case study
+Developed a Logistic Regression model 
+(83% precision, 81% recall, 80% F1-score) 
+to predict high-traffic recipes, boosting user 
+engagement and traffic by 15% through 
+personalized meal plans and targeted 
+content.
+Skills
+Programming
+Python, SQL, ML, NLP
+Data Analysis
+A/B Testing, Statistics, Pandas, EDA, SKlearn, Excel
+Visualization
+PowerBi, Metabase, Tableau, Streamlit
+GenAI & Other
+LLMs, AI Agents, Chatbots, RAG, LangChain, LangGraph, LLMOps, 
+AWS, Git, Jira, Salesforce
+Professional Experience
+Data Analyst (werkstudent), ALLIANZ PARTNERS
+November 2023 – present | Munich, Germany
+•Developed Power BI dashboards for C-level executives across 
+119 business units, LOBs, optimizing insights into a $2.8B 
+contract portfolio. Automated reporting processes, reducing 
+manual Excel workload by 60%.
+•Developed Python scripts to process unstructured Salesforce and 
+finance data, optimizing data load time and efficiency.
+Senior Product Data Analyst in Customer Experience, RAPIDO
+April 2021 – February 2023 | Bangalore, India
+•Increased key KPI's: Rides per Customer (RPC) by 5% and 
+Customer Satisfaction Score (CSAT) by 22%.
+•Designed and executed A/B test experiments on Scratch Card, 
+drop suggestions, Home Favorite and single-click booking and 
+built dashboards using SQL & Metabase.
+•Consolidated 15 event-level datasets into a master dataset, 
+reducing week on week dashboard load times from 15 minutes to 
+under 30 seconds.
+•Performed NLP-driven sentiment analysis on customer feedback, 
+increasing CSAT from 2.8 to 3.9 and boosting cashless payment 
+adoption by 8%.
+•Specialized in product analytics, leveraging funnel conversion 
+tracking, user retention analysis, UTM tracking, affiliate marketing 
+platforms, and digital ad performance (CTR, CPC, CPA).
+Associate Software Engineer, TCS & Ucodesoft Solutions
+February 2019 – March 2021 | India
+Ucodesoft - Developed a user-friendly frontend website for a 
+restaurant using html, css, php, JavaScript. enhancing online 
+customer experience with features such as online menus and 
+reservations.
+TCS - Automated AWS VDI control using Python, reducing manual 
+effort by 60%.
+Developed a real-time hand detection system for Unilever with 
+90% accuracy, enabling automated machine shutdowns to prevent 
+factory injuries.
+Certificates AND Languages
+Certified Data Scientist, Datacamp
+Languages
+English
