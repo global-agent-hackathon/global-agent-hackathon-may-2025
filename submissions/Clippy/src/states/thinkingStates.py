@@ -1,0 +1,2 @@
+currentThinking = None
+agentLogger = None
