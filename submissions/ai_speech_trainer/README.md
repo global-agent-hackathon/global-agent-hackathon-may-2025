@@ -155,5 +155,9 @@ MIT License
 
    Each of these additional functionalities could be added by implementing specific goal-oriented agents in the system.
 
+## Limitations
+- **Together API** with **meta-llama/Llama-3.3-70B-Instruct-Turbo-Free** as LLM has a small token limit, therefore, it works with small video clips (15-30 seconds).
+- Use other LLM options for longer video clips. Don't forget to add their API keys in the *.env* file. 
+
 ## Acknowledgements
 Built for the **#GlobalAgentHackathonMay2025** using Agno, Streamlit, Together API, and FastAPI.
