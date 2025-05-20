@@ -1,6 +1,6 @@
-# SDET-GENIE: AI-AGENTS in QA Automation --> @AGNO ^ @ Browser-use
+# SDET-GENIE: AI-AGENTS in QA Automation @AGNO @Browser-use
 
-![image]()
+![image](https://raw.githubusercontent.com/BharathLakkoju/global-agent-hackathon-may-2025/refs/heads/main/.assets/agno_architecture.png)
 
 ## 🚀 Project Overview
 
